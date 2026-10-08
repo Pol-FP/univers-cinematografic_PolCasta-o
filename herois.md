@@ -5,12 +5,14 @@ PERSONATGES DE LA SAGA
 - Poder/Tecnologia: Armadura d'alta tecnologia amb repulsors, vol controlat i intel·ligència artificial (JARVIS/FRIDAY).
 - Origen: Magnat industrial i científic brillant que construeix la seva primera armadura per escapar d'un captiveri.
 - Funció: El líder tecnològic i financer del grup, a més de ser el cervell estratègic subratllat pel seu sacrifici.
+- Relació: Actua com a mentor de Peter Parker, proporcionant-li tecnologia i guiatge.
 
 2. Spider-Man
 - Nom: Peter Parker
 - Poder/Tecnologia: Força i agilitat sobrehumanes, sentit aràcnid, capacitat d'adherir-se a les superfícies i llançatelaranyes artificials.
 - Origen: Adolescent de Queens picat per una aranya genèticament modificada (o radioactiva) en una excursió escolar.
 - Funció: El cor i la perspectiva del carrer de la saga; actua com a aprenent i futur relleu dels grans herois.
+- Relació: Veu Tony Stark com una figura paterna i el seu referent heroic.
 
 3. Captain America
 - Nom: Steve Rogers

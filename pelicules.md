@@ -20,3 +20,10 @@
 - Escenari principal: Wakanda i el planeta Titan.
 - Resum de l'argument: Thanos aconsegueix reunir les Gemmes de l'Infinit i els herois s'han de dividir en dos fronts per lliurar una batalla definitiva pel destí de tot l'univers.
 - Relació amb els capítols: Es correspon amb el **Capítol 3: La Batalla Final**.
+
+4. Títol: El Llegat dels Herois (Epíleg)
+- Protagonistes: Spider-Man i Black Panther.
+- Antagonista: Una nova amenaça a l'ombra.
+- Escenari principal: Laboratoris de Wakanda i Nova York.
+- Resum de l'argument: Després de la batalla final, els herois supervivents s'uneixen per protegir el llegat dels caiguts i reconstruir l'equip amb nova tecnologia combinada.
+- Relació amb els capítols: Es correspon amb el **Capítol 4: Un Nou Futur**.
