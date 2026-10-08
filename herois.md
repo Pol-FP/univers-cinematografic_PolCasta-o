@@ -20,6 +20,18 @@ PERSONATGES DE LA SAGA
 
 4. Black Panther
 - Nom: T'Challa
-- Poder/Tecnologia: Atributs físics millorats per l'herba de fulla de cor; vestit de teixit de vibrànum que absorbeix i canalitza l'energia cinètica.
+- Poder/Tecnologia: Atributs físics millorats per una avanzada nanotecnologia; vestit de teixit de vibrànum que absorbeix i canalitza l'energia cinètica.
 - Origen: Príncep i posterior rei de Wakanda, una nació africana secreta i tecnològicament avançada.
 - Funció: El suport geopolític, protector dels recursos i aliat clau que proporciona refugi i tecnologia d'avantguarda.
+
+5. Thor
+- Nom: Thor Odinson
+- Poder/Tecnologia: Control del llamp i de les tempestes; capaç de volar i canalitzar la seva energia amb el martell Mjolnir o la destral Stormbreaker.
+- Origen: Déu del Llamp asgardià, fill d'Odin, exiliat a la Terra per aprendre humilitat.
+- Funció: La potència de foc mitològica i un dels guerrers més forts de la línia de front.
+
+6. Black Widow
+- Nom: Natasha Romanoff
+- Poder/Tecnologia: Mestra en arts marcials, espionatge, tir de precisió i ús de tàsers de canell ("bocins de vídua").
+- Origen: Antiga espia russa entrenada a la "Cambra Roja" que es va redimir unint-se a S.H.I.E.L.D.
+- Funció: Especialista en infiltració, intel·ligència i l'enllaç tàctic que manté l'equip unit.
